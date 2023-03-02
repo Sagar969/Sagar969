@@ -77,5 +77,5 @@
 - I'm looking for Internships and Job oppurtunities.
 - Currently making projects and learning full stack web development.
 - Things I like :
-    - Music <img src="./assets/stickers/music.gif" width="50" height="50" style="position: relative; top: 20px">, Reading <img src="./assets/stickers/reading.gif" width="50" height="50" style="position: relative; top: 20px; margin-top: 20px;">, Coding <img src="./assets/stickers/typing.gif" width="50" height="50" style="position: relative; top: 20px">, Movies <img src="./assets/stickers/movie-deadpool.gif" width="50" height="50" style="position: relative; top: 20px">
+    - Music, reading, coding and movies.
 
